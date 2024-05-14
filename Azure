@@ -1,0 +1,15 @@
+Descrição
+Este projeto explora as capacidades da Microsoft Azure Cloud, implementando diversas funcionalidades de computação em nuvem. O objetivo é demonstrar como a Azure pode ser usada para escalonar aplicações e gerenciar recursos de forma eficiente.
+
+Tecnologias Utilizadas
+Microsoft Azure Cloud
+
+Como Rodar o Projeto
+Para executar este projeto, você precisará de uma conta na Microsoft Azure. Siga os passos abaixo:
+O repositório  https://signup.azure.com/
+Configure o ambiente Azure conforme a documentação oficial da Microsoft.
+Execute as configurações e os serviços necessários diretamente no portal da Azure ou via CLI Azure.
+
+Funcionalidades
+Demonstração de escalabilidade automática usando Azure Functions.
+Gerenciamento e alocação de recursos de computação em nuvem.
